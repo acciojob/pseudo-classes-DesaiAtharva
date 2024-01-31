@@ -15,7 +15,7 @@ p:last-child{
 	color:red;
 }
 
-li:nth-child(even){
+li{
 	background-color:grey;
 	width:50%;
 	padding:10px;
@@ -25,7 +25,7 @@ li:nth-child(even){
 li:nth-child(odd){
 	background-color:white;
 	width:50%;
-	padding:10px;
+	
 }
 
 li:nth-last-child(3){
